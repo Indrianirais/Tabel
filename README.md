@@ -1,2 +1,0 @@
-# Tabel
-Aplikasi Komputer
